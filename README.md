@@ -1,1 +1,3 @@
-# Label_Predictions_using_NLP_and_Machine_Learning_Models
+Internship Project Portfolio
+
+Project Description: This project seeks to use NLP to analyse unstructured texts and apply machine learning models to predict labels.
