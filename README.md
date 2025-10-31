@@ -1,5 +1,5 @@
 Internship Project
 
-Project Description: This project leverages Natural Language Processing (NLP) techniques to analyse unstructured texts and applies machine learning models to predict classification labels.
+Project Description: This project utilises Natural Language Processing (NLP) technique to analyse unstructured texts and creates machine learning models to predict classification labels.
 
 Remark: Unable to view online due to large file size, download required
